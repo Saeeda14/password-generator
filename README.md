@@ -14,4 +14,5 @@ enables emmployees to generate a random safe password based on the criteria a us
 </p>
 
 ## Screenshot
-<img src="./assets/images/horiseon.jpg" alt="Image of the deployed Horiseon website">
+
+<img src="./assets/images/password-generator.png" alt="Image of the deployed password generator page">
